@@ -1,4 +1,4 @@
-# cofe34f4b90bd21b6074569ec
+# Workers counter app
 
 Quick start:
 
